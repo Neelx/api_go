@@ -1,4 +1,4 @@
-package main
+package main //arrays, slices, and maps
 
 import "fmt"
 
