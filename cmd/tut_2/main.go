@@ -1,4 +1,4 @@
-package main
+package main //variables, constants, and types
 
 import (
 	"fmt"
